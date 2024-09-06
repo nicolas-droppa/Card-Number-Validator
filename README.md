@@ -77,7 +77,8 @@ The validation process is based on the **Luhn algorithm**. Here’s a brief over
 
 ## 📷 Screenshots
 
-![Card Validator Screenshot](https://github.com/user-attachments/assets/card_validator_screenshot.png)
+![Card Validator Screenshot](https://github.com/user-attachments/assets/be490b96-7727-42e8-9063-0a31c1d2f633)
+![Card Validator Screenshot](https://github.com/user-attachments/assets/e56df7a8-5109-45a2-9ba4-5b94eae8ca19)
 
 ---
 
